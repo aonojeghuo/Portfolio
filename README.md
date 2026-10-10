@@ -4,7 +4,7 @@ Welcome to the portfolio repository of Dr. Ajoke Onojeghuo (PhD, Geography). Thi
 
 ## About Me
 
-Results-oriented Data Science, GIS, and AI Specialist with extensive experience converting complex multi-source spatial data into actionable intelligence and executive insights.
+Results-oriented Data Science, GIS, and Remote Sensing Specialist with extensive experience converting complex multi-source spatial data into actionable intelligence and executive insights.
 
   * **Roles**: Principal Consultant & Geospatial Data Scientist at Jolexy Environmental Services | Geospatial Analysis Consultant at UNICEF
   * **Location**: Edmonton, AB, Canada
